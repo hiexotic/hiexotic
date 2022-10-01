@@ -1,1 +1,2 @@
-# Exotic - Solaris Team
+# Exotic - Infra Team
+Exploitation Technology Team
